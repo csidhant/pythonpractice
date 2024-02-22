@@ -1,0 +1,5 @@
+x = float(input("Enter the value of x: "))
+y = float(input("Enter the value of y: "))
+z = float(input("Enter the value of z: "))
+result = x + (y - z)
+print(f"The result of  x + (y - z)  is: {result}")

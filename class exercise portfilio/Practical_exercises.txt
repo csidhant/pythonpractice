@@ -1,0 +1,63 @@
+-- TBC Python Exercises
+
+--- Variables, operators, expressions
+
+1. Create a variable name, assign your name to the variable and print it.
+2. Write a program to take name as input from the user and print it.
+3. Write a program to take 2 numbers as an input and print their added result.
+4. Write a program to take 2 numbers as an input and print the result of addition, subtraction, multiplication, division, floor division and reminder division.
+5. Write a program to take base and exponent values as an input and print the result of base to the power exponent.
+6. Consider the below mentioned expressions, write the programs to take the necessary input values so that the expressions can give the result. Convert the mathematical expressions into the python program expressions.
+	i. a2 + 2ab + b2
+	ii. x + (y - z) 
+	iii. x3 + 2x + 3
+	iv. 2x2+3xy+4x+7
+	v. 7ab2 c2 + 2a3 b2 − 3abc – 5ab2 c2 – 2b2 a3 + 2ab
+	
+------Control Structures----------------------------
+1. Write a program to identify a user input number is even or odd.
+2. Write a program to check whether a user input number is prime or not.
+3. Write a program to find the factorial of a given number.
+4. Write a program to print the prime numbers between 1 and 100.
+5. Write a program to ask the user to input the numbers until they want. The users can enter a positive or a negative numbers. The program should calculate the sum of the positive numbers and the negative numbers separately and display in a proper format.
+6. Write a program to print the patterns of following:
+	i.
+		11111
+		22222
+		33333
+		44444
+		55555
+		
+	ii. 
+		1
+		12
+		123
+		12345
+		
+	iii. 
+				1
+			   21
+			  321 
+			 4321
+			54321
+	iv.
+				1
+			   212
+			  32123
+			 4321234
+			543212345	
+			
+
+--------Functions
+1. Write a function that prints a greeting "Hello TBC" whenever it is called in a program. Write a program to call the function and test it.
+2. Write a function to accept a your name as a parameter and print the message "Hello <your name>". Call the function by passing your name and check whether the expected output is obtained or not.
+3. Write a function to accept 2 numbers which displays the output of the operations addition, subtraction, multiplication, division, modulo division, floor division. Call the function passing 2 parameters as an input from the user in your program.
+4. Write a program which contains separate functions of all the mathematical operations mentioned in question number 3. All the functions should return the output of their operation. Call the function in the program sending the 2 input numbers and display the output in the proper format.
+5. Write a function that returns the factorial of a number being sent as a parameter to it. Call the function in your program to test by sending a parameter.
+6. Write a function which accepts any number of similar parameters and returns the sum of all the numbers.
+7. Try to convert few of the above mentioned programs into lambda functions.
+8. Write a function to input any number of values from the user and print the sum of all the numbers. [Hint: Use the concept of variable length arguments.]
+9. Write a program to demonstrate how to call a function inside another function.
+10. Write a function for a basic mathematical game for a user. The program will initially show a number and user has to guess either the next number is higher or lower. Correct answer increases the positive point by 1 while wrong answer decreases point by 0.5. If the user has his point in negative, the game is over.
+
+
