@@ -1,0 +1,15 @@
+-- TBC Python Exercises
+
+--- Variables, operators, expressions
+
+1. Create a variable name, assign your name to the variable and print it.
+2. Write a program to take name as input from the user and print it.
+3. Write a program to take 2 numbers as an input and print their added result.
+4. Write a program to take 2 numbers as an input and print the result of addition, subtraction, multiplication, division, floor division and reminder division.
+5. Write a program to take base and exponent values as an input and print the result of base to the power exponent.
+6. Consider the below mentioned expressions, write the programs to take the necessary input values so that the expressions can give the result. Convert the mathematical expressions into the python program expressions.
+	i. a2 + 2ab + b2
+	ii. x + (y - z) 
+	iii. x3 + 2x + 3
+	iv. 2x2+3xy+4x+7
+	v. 7ab2 c2 + 2a3 b2 − 3abc – 5ab2 c2 – 2b2 a3 + 2ab

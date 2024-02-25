@@ -8,6 +8,8 @@ if found:
 else:
     print("thanks for you entry")
     '''
+    
+
 s= input("enter enter a list of integer:")
 lst = s.split()
 count =0
